@@ -1,0 +1,56 @@
+[
+    {
+        "id": 0 ,
+        "owner": null,
+        "resources": null,
+        "borders": [1,3]    
+    },
+    {
+        "id": 1 ,
+        "owner": null,
+        "resources": null,
+        "borders": [0,2,4]    
+    },
+    {
+        "id": 2 ,
+        "owner": null,
+        "resources": null,
+        "borders": [1,5]    
+    },
+    {
+        "id": 3 ,
+        "owner": null,
+        "resources": null,
+        "borders": [0,4,6]    
+    },
+    {
+        "id": 4 ,
+        "owner": null,
+        "resources": null,
+        "borders": [1,3,7,5]    
+    },
+    {
+        "id": 5 ,
+        "owner": null,
+        "resources": null,
+        "borders": [4,2,8]    
+    },
+    {
+        "id": 6 ,
+        "owner": null,
+        "resources": null,
+        "borders": [3,7]    
+    },
+    {
+        "id": 7 ,
+        "owner": null,
+        "resources": null,
+        "borders": [6,4,8]    
+    },
+    {
+        "id": 8 ,
+        "owner": null,
+        "resources": null,
+        "borders": [7,5]    
+    }
+]
