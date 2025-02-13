@@ -14,5 +14,13 @@
         "resources_per_turn": 0,
         "owned_tiles" : 0,
         "tiles": []
+    },
+    {
+        "id": 3,
+        "color": "green",
+        "resources_total": 20,
+        "resources_per_turn": 0,
+        "owned_tiles" : 0,
+        "tiles": []
     }
 ]
