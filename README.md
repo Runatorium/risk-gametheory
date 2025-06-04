@@ -1,3 +1,4 @@
+#Yes i am still working on it
 # risk-gametheory
 creating a risk game simulation to define the importance of humanity
 ---SET OF RULES:
